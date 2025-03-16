@@ -1,7 +1,7 @@
 <center>
     <h4 align="center">Unlocker for Prism Launcher on Linux & macOS</h4>
     <p align="center">
-        <strong>Latest supported version:</strong> 8.2<br>
+        <strong>Latest supported version:</strong> 9.2<br>
         <strong>Portable version not supported yet</strong><br>
         <strong>Heavily inspired by:</strong>
         <a href="https://github.com/SpotX-Official/SpotX-Bash">SpotX-Bash </a> 
@@ -18,4 +18,4 @@ bash <(curl -sL https://raw.githubusercontent.com/DomHeadroom/Prism43/main/prism
 ```
 
 ### Not to do:
-Before creating a new offline account, ensure not to delete the 'No Profile' account. <br>If you accidentally delete it, you will need to rerun the script.
+Before creating a new offline account, ensure not to delete the 'Xbox profile missing' account. <br>If you accidentally delete it, you will need to rerun the script.
