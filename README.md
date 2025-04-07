@@ -18,4 +18,4 @@ bash <(curl -sL https://raw.githubusercontent.com/DomHeadroom/Prism43/main/prism
 ```
 
 ### Not to do:
-Before creating a new offline account, ensure not to delete the 'Xbox profile missing' account. <br>If you accidentally delete it, you will need to rerun the script.
+Ensure not to delete the 'Xbox profile missing' account. <br>If you accidentally delete it, you will need to rerun the script.
