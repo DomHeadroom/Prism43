@@ -1,7 +1,7 @@
 <center>
     <h4 align="center">Unlocker for Prism Launcher on Linux & macOS</h4>
     <p align="center">
-        <strong>Latest supported version:</strong> 9.2<br>
+        <strong>Latest supported version:</strong> 9.4<br>
         <strong>Portable version not supported yet</strong><br>
         <strong>Heavily inspired by:</strong>
         <a href="https://github.com/SpotX-Official/SpotX-Bash">SpotX-Bash </a> 
