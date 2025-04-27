@@ -29,7 +29,7 @@ install() {
         { echo -e "${red}Error:${clear} A problem occurred while downloading accounts.json.\n${clear}Exiting..." >&2; exit 1; }
     fi
   done
-  [[ ! "${found}" ]] && { echo -e "${red}Error:${clear} Installation directory not found.\n${clear}Exiting..." >&2; exit 1; }
+  [[ ! "${found}" ]] && { echo -e "${red}Error:${clear} Installation directory not found.\nHave you run Prism Launcher at least once?\n${clear}Exiting..." >&2; exit 1; }
   echo -e "${green}Success:${clear} All done without any problems!"
 }
 
