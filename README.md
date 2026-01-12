@@ -25,4 +25,4 @@ Since the v10 update, the launcher performs a mandatory **token check** every ti
 - Close the launcher
 - Run the following command in terminal:
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/DomHeadroom/Prism43/main/prism43.sh](https://raw.githubusercontent.com/DomHeadroom/Prism43/main/prism43.sh))
+bash <(curl -sL https://raw.githubusercontent.com/DomHeadroom/Prism43/main/prism43.sh)
